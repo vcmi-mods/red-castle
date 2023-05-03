@@ -4,10 +4,17 @@
 	"author": "Mitlandy, avatar",
 	"version" : "1.1",
 	"contact": "",
-	"modType" : "Graphical town modifications",	
+	"modType" : "Graphical",
+	"conflicts" :
+	[
+		"snow-castle",
+		"quartz",
+		"lotrd-townscreens",
+		"hota.hota balance"
+	],
 	"changelog" :
 	{
-		"1.1"   : [ "Fixes" ]
+		"1.1"   : [ "Fixes" ],
 		"1.0"   : [ "Initial release" ]
 	},
 	"factions" :
